@@ -1,5 +1,3 @@
-<br>
-
 ### Hi Guys, I'm Evan a full stack development student from Dublin, Ireland. ☘️
 
 <br>
