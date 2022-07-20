@@ -1,5 +1,4 @@
 ### Hi Guys, I'm Evan a full stack development student from Dublin, Ireland. ☘️
-
 <br>
 
 #### About Me: 
@@ -13,6 +12,4 @@
 #### Stats:
 
 [![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evan2022)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
 <br>
