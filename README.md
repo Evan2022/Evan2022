@@ -1,4 +1,4 @@
-### Hi Guys, I'm Evan a full stack development student from Dublin, Ireland. ☘️
+### Hi, I'm Evan a full stack development student from Dublin, Ireland. ☘️
 
 #### About Me: 
     - Code Institute student. 
